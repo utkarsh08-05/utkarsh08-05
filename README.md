@@ -4,7 +4,7 @@ Software Developer (Internship Candidate) — Backend & Data Structures
 India 🇮🇳
 
 <p>
-  <a href="www.linkedin.com/in/utkarsh-prakash-7b7ab7285">
+  <a href="linkedin.com/in/utkarsh-prakash-7b7ab7285">
     <img src="https://img.shields.io/badge/LinkedIn-utkarsh--prakash-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/utkarsh08_05">
