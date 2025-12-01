@@ -78,12 +78,6 @@ Interested in building **reliable, scalable systems** and writing clean, maintai
   />
 </p>
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com
-    ?user=utkarsh08-05
-    &theme=github-light
-    &hide_border=true
-    &currStreakLabel=Current%20Streak
-    &timezone=Asia/Kolkata" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh08-05&theme=github" />
 </p>
+
