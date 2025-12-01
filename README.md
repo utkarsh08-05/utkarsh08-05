@@ -77,3 +77,13 @@ Interested in building **reliable, scalable systems** and writing clean, maintai
     src="https://komarev.com/ghpvc/?username=utkarsh08-05&label=Profile%20Views&style=flat&color=0e75b6" 
   />
 </p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com
+    ?user=utkarsh08-05
+    &theme=github-light
+    &hide_border=true
+    &currStreakLabel=Current%20Streak
+    &timezone=Asia/Kolkata" 
+  />
+</p>
