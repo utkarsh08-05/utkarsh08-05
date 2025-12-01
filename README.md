@@ -73,8 +73,9 @@ Interested in building **reliable, scalable systems** and writing clean, maintai
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh08-05&theme=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh08-05&theme=default&hide_border=false" />
 </p>
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=utkarsh08-05&label=Profile%20Views&style=flat&color=0e75b6" 
