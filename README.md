@@ -63,7 +63,7 @@ Interested in building **reliable, scalable systems** and writing clean, maintai
 
 ## 🧠 Problem Solving (LeetCode)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/utkarsh08_05?theme=light&font=JetBrains%20Mono" />
+  <img src="https://leetcard.jacoblin.cool/utkarsh08_5?theme=light&font=JetBrains%20Mono" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Interested in building **reliable, scalable systems** and writing clean, maintai
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=utkarsh08-05&label=Profile%20Views&style=flat&color=0e75b6" 
+    src="https://komarev.com/ghpvc/?username=utkarsh08-5&label=Profile%20Views&style=flat&color=0e75b6" 
   />
 </p>
 
